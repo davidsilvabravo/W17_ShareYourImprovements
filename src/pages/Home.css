@@ -1,0 +1,26 @@
+.progress{
+    height: 100%;
+}
+
+.progress-bar{
+    width: 100%;
+}
+
+#about, #mission, #signin{
+    height: 750px;
+    width: 100%;
+    margin: 0;
+    align-content: center;
+}
+
+#about{ 
+    background-image: url("../../verde.png");
+}
+
+#mission{ 
+    background-image: url("../../amarillo.png");
+}
+
+#signin{ 
+    background-image: url("../../azul.png");
+}
